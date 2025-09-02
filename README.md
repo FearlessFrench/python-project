@@ -4,7 +4,7 @@ This project is designed to provide a fast-paced, in-depth, and practical review
 
 The goal is not just to read about code, but to write it. The repository contains a series of files, each representing a segment of the review. The content is structured to build upon previous lessons, ensuring a solid foundation in core programming principles and practical Python syntax.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW43b28wOHhrNjdoYTJtcXdrcWtzNGUydG1iZGZxdTVhdmViN2Y4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" alt="Animated GIF showing a person coding" width="400" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh6b3BvOTNlOThuMjdhN2dkZTFwcDU0eDZ0eGkxOHo2anhja3Z1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUUlX7fhMhnKYb6/giphy.gif" alt="Taki drinking a bottle of water"/>
 <hr>
 
 ### Repository Structure
