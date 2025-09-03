@@ -55,9 +55,8 @@ To run these projects, you can simply use the Python code from each folder and r
 <hr>
 
 ### Contributing
-Feel free to fork this repository and submit your own JavaScript projects or improvements via pull requests!
+Feel free to fork this repository and submit your own Python projects or improvements via pull requests!
 <hr>
 
 ### License
 This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
-__4. Contribute__: Feel free to fork the repository, make improvements, or add your own solutions, and submit a pull request!
