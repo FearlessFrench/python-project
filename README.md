@@ -8,13 +8,13 @@ Python is widely used in various fields, including web development, data science
 ### Table of Contents
 | File | Description |
 |------------------|-------------|
-| Python Ⅰ.py | Covers Chapter 1 (Introduction to Python) through Chapter 16 (Collections), including Exercises 1–7. |
-| Python Ⅱ.py | Covers Chapter 17 (2D Collections) through Chapter 25 (Match-Case Statement), including Exercises 8–13. |
-| Python Ⅲ.ipynb | Covers Chapter 26 (Modules) through Chapter 28 (`if __name__ == '__main__'`), including Exercises 14–17. |
-| Python Ⅳ.py | Covers Chapter 29 (Objects) through Chapter 41 (Exceptions). |
-| Python Ⅴ.py | Covers Chapter 42 (Python File Detection) through Chapter 56 (PyQt5 CSS), including Exercise 18 (Python Alarm Clock). |
-| Python Ⅵ.ipynb | Contains Exercise 19 (Python PyQt5 Digital Clock) and Exercise 20 (Python PyQt5 Stopwatch). |
-| Python Ⅶ.py | A larger project: the Python Weather App. |
+| `Python Ⅰ.py` | Covers Chapter 1 (Introduction to Python) through Chapter 16 (Collections), including Exercises 1–7. |
+| `Python Ⅱ.py` | Covers Chapter 17 (2D Collections) through Chapter 25 (Match-Case Statement), including Exercises 8–13. |
+| `Python Ⅲ.ipynb` | Covers Chapter 26 (Modules) through Chapter 28 (`if __name__ == '__main__'`), including Exercises 14–17. |
+| `Python Ⅳ.py` | Covers Chapter 29 (Objects) through Chapter 41 (Exceptions). |
+| `Python Ⅴ.py` | Covers Chapter 42 (Python File Detection) through Chapter 56 (PyQt5 CSS), including Exercise 18 (Python Alarm Clock). |
+| `Python Ⅵ.ipynb` | Contains Exercise 19 (Python PyQt5 Digital Clock) and Exercise 20 (Python PyQt5 Stopwatch). |
+| `Python Ⅶ.py` | A larger project: the Python Weather App. |
 <hr>
 
 ### Topics Covered
