@@ -2,7 +2,7 @@
 ### About
 Python is widely used in various fields, including web development, data science, artificial intelligence, and automation. Its simplicity and versatility have made it one of the most popular programming languages globally. Large organizations like Google, NASA, and Facebook use Python for various applications.
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHh6b3BvOTNlOThuMjdhN2dkZTFwcDU0eDZ0eGkxOHo2anhja3Z1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUUlX7fhMhnKYb6/giphy.gif" alt="Taki drinking a bottle of water"/>
+<img src="https://tenor.com/en-GB/view/suou-yuki-roshidere-sister-suou-yuki-gif-4539693872069386578.gif" alt="Souo Yuki Talks about Python"/>
 <hr>
 
 ### Table of Contents
